@@ -118,5 +118,35 @@
         "nom": "Meta-Brille",
         "description": "Fiche signalétique",
         "url": "https://api-b2b.kersia.ca/media/documents/2/a/c/e/2acebfc0144b34c41d12c0fefeb77dc983179769_MEBR0950_F.pdf?_gl=1*wfcjra*_gcl_au*MTExMjQyMTI4Mi4xNzg0MTM2NzA2"
+    },
+ {
+        "id": 21,
+        "nom": "Calisto Eco",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/727094d6-1308-5c8a-8e0b-cc4b6bb79fa3"
+    },
+ {
+        "id": 22,
+        "nom": "Prism-Eco",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/fff61517-98e0-57e7-ad64-655c049c31ee"
+    },
+ {
+        "id": 23,
+        "nom": "Nytrol PV Eco",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/efb9d96a-c141-54ef-8349-bbbdb5c424e9"
+    },
+ {
+        "id": 24,
+        "nom": "DV-Optima",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/335ed7ec-9c75-5b61-b50a-071820bb0e1f"
+    },
+ {
+        "id": 25,
+        "nom": "DV-2000",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/0b0831bd-8f61-5de0-a0de-7a0d37d62554"
     }
 ]
