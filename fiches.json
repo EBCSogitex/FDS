@@ -148,5 +148,35 @@
         "nom": "DV-2000",
         "description": "Fiche signalétique",
         "url": "https://documents-api.kersia-group.com/datasheet/0b0831bd-8f61-5de0-a0de-7a0d37d62554"
+    },
+ {
+        "id": 26,
+        "nom": "Valor Eco",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/7e90f1b9-e0df-586d-a98e-2e80f573adf6"
+    },
+ {
+        "id": 27,
+        "nom": "Aqua-Rince",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/13f214c5-0184-506e-82e7-2c6f792a1c3b"
+    },
+ {
+        "id": 28,
+        "nom": "Aqua-Safe",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/c4d7d0a6-5abc-5f3f-8e57-fae2637f671a"
+    },
+ {
+        "id": 29,
+        "nom": "DV-Ultra",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/d094b41a-6a86-5f44-b0de-c1514d75d232"
+    },
+ {
+        "id": 30,
+        "nom": "Elite",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/adb9625d-af02-556c-a901-2e2b15a53de5"
     }
 ]
