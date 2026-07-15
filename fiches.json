@@ -208,5 +208,41 @@
         "nom": "Valor-Pak",
         "description": "Fiche signalétique",
         "url": "https://documents-api.kersia-group.com/datasheet/32d49cd4-37e7-5050-a62b-08acf48ef8ce"
+    },
+ {
+        "id": 36,
+        "nom": "Aqua-Ultra",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/d631ebe3-94fa-5752-9424-b84b8e9cb9ee"
+    },
+ {
+        "id": 37,
+        "nom": "Aqua-Rince HW",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/e301cb7f-2afe-5d64-94e9-b36492753241"
+    },
+ {
+        "id": 38,
+        "nom": "Aqua-2000",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/76b9ae51-1dd8-5df0-b1d7-72a0716867c2"
+    },
+ {
+        "id": 39,
+        "nom": "Aqua-2000 HC",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/82b34604-6b86-546b-a70d-9c57c474c36a"
+    },
+ {
+        "id": 40,
+        "nom": "D-Kal",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/30d32efc-febd-5f1c-ba9f-05326ddd7bee"
+    },
+ {
+        "id": 41,
+        "nom": "Bio-Plus",
+        "description": "Fiche signalétique",
+        "url": "https://api-b2b.kersia.ca/media/documents/5/7/1/7/57172f7c0eb7e7560df72e9d923c30849924d9ee_FDS_GSO3860220_BIOPLUS_Agent_de_trempage.pdf?_gl=1*1f58qx*_gcl_au*MTExMjQyMTI4Mi4xNzg0MTM2NzA2"
     }
 ]
