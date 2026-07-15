@@ -304,5 +304,35 @@
         "nom": "Ultrad HA",
         "description": "Fiche signalétique",
         "url": "https://documents-api.kersia-group.com/datasheet/e267fa31-3c9b-55b6-8025-af318f04dad6"
+    },
+ {
+        "id": 52,
+        "nom": "Deptacid UF 6",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/ba3e830a-53d6-53b3-9df9-cd9db44f181f"
+    },
+ {
+        "id": 53,
+        "nom": "Depta UF 125L",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/8ffc9f86-de91-53cd-ab38-11923bc4fd44"
+    },
+ {
+        "id": 54,
+        "nom": "Deptacid UF 2",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/df0f77bb-8b3a-5c0a-bedf-b862c5bf5605"
+    },
+ {
+        "id": 55,
+        "nom": "Deptacid UF 4",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/14601945-b4a8-559b-aab2-6059a2954ed5"
+    },
+ {
+        "id": 56,
+        "nom": "Deptal UF 130 L",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/fded690a-b1d0-5be1-900f-ac5d169f9e97"
     }
 ]
