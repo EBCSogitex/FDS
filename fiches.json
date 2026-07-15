@@ -244,5 +244,65 @@
         "nom": "Bio-Plus",
         "description": "Fiche signalétique",
         "url": "https://api-b2b.kersia.ca/media/documents/5/7/1/7/57172f7c0eb7e7560df72e9d923c30849924d9ee_FDS_GSO3860220_BIOPLUS_Agent_de_trempage.pdf?_gl=1*1f58qx*_gcl_au*MTExMjQyMTI4Mi4xNzg0MTM2NzA2"
+    },
+ {
+        "id": 42,
+        "nom": "Clorospec RTU",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/7604be35-c88a-5567-82d0-7056d08f1c01"
+    },
+ {
+        "id": 43,
+        "nom": "Sani-Spec",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/16f0e34d-3686-555f-ad69-c962bb51118a"
+    },
+ {
+        "id": 44,
+        "nom": "Spectrol",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/54a2fa14-ffbf-53dc-8636-043aa5046667"
+    },
+ {
+        "id": 45,
+        "nom": "Spectro-Sept HC",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/84e9dd5b-e160-5e06-a480-5b71527e14d9"
+    },
+ {
+        "id": 46,
+        "nom": "Spectro-Sept",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/951c97ae-d474-596d-a948-998655c2f676"
+    },
+ {
+        "id": 47,
+        "nom": "1 Minute Strip",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/8c1cf760-da2e-5225-b2f8-abb94936519d"
+    },
+ {
+        "id": 48,
+        "nom": "Deptal Multi",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/3073c1e0-d288-569a-a94c-cd76d6049831"
+    },
+ {
+        "id": 49,
+        "nom": "Ergon 510",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/51f5438c-3c88-5c54-a546-dd76645d9cbd"
+    },
+ {
+        "id": 50,
+        "nom": "Tag-Out",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/96c3824c-8ce1-533c-957f-4a5a20a7a460"
+    },
+ {
+        "id": 51,
+        "nom": "Ultrad HA",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/e267fa31-3c9b-55b6-8025-af318f04dad6"
     }
 ]
