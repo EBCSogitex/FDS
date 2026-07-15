@@ -178,5 +178,35 @@
         "nom": "Elite",
         "description": "Fiche signalétique",
         "url": "https://documents-api.kersia-group.com/datasheet/adb9625d-af02-556c-a901-2e2b15a53de5"
+    },
+ {
+        "id": 31,
+        "nom": "DP-1110",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/6b96d67e-19d1-5b91-8ab5-f4cc29258e8a"
+    },
+ {
+        "id": 32,
+        "nom": "D-Sinfect Plus",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/8c2e53bc-7334-5170-ade2-d46346f0ea88"
+    },
+ {
+        "id": 33,
+        "nom": "D-Sinfect",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/8d076ba2-d3bd-56d2-aa31-84accde36b15"
+    },
+ {
+        "id": 34,
+        "nom": "DP-711",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/b96ae5fa-9bf3-57d2-ab71-0bde4bea72a8"
+    },
+ {
+        "id": 35,
+        "nom": "Valor-Pak",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/32d49cd4-37e7-5050-a62b-08acf48ef8ce"
     }
 ]
