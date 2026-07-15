@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nom": "Papier",
+        "description": "Fiche signalétique du papier",
+        "url": "https://votresite.com/fiches/papier.pdf"
+    },
+    {
+        "id": 2,
+        "nom": "Acétone",
+        "description": "Fiche signalétique de l'acétone",
+        "url": "https://votresite.com/fiches/acetone.pdf"
+    },
+    {
+        "id": 3,
+        "nom": "Hydroxyde de sodium",
+        "description": "Fiche signalétique de l'hydroxyde de sodium",
+        "url": "https://votresite.com/fiches/soude.pdf"
+    }
+]

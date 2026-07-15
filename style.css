@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #f3f7ff 0%, #eefdf8 100%);
+    color: #223;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.app-shell {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 24px 16px 40px;
+}
+
+.hero {
+    margin-bottom: 16px;
+    background: linear-gradient(90deg, #2563eb, #10b981);
+    border-radius: 14px;
+    padding: 18px 20px;
+    box-shadow: 0 6px 16px rgba(37, 99, 235, 0.18);
+}
+
+h1 {
+    margin: 0;
+    font-size: 1.7rem;
+    color: white;
+}
+
+.search-panel {
+    margin-bottom: 16px;
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 14px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+}
+
+#searchInput {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1px solid #dbeafe;
+    border-radius: 8px;
+    font-size: 1rem;
+    outline: none;
+}
+
+#searchInput:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.12);
+}
+
+.results-grid {
+    display: grid;
+    gap: 10px;
+}
+
+.fiche {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 12px 14px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.fiche h3 {
+    margin: 0;
+    font-size: 1rem;
+    color: #1f2937;
+}
+
+.fiche-link {
+    display: inline-block;
+    margin-top: 8px;
+    color: #2563eb;
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+.empty-state {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 16px;
+    color: #666;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
