@@ -88,5 +88,35 @@
         "nom": "Mirajel RTU",
         "description": "Fiche signalétique",
         "url": "https://documents-api.kersia-group.com/datasheet/258c6c90-81e2-51dc-8d25-1f81762c5a21"
+    },
+ {
+        "id": 16,
+        "nom": "Merlin",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/0774b691-add6-59c7-bfcb-9c147043547e"
+    },
+ {
+        "id": 17,
+        "nom": "Récurant à four/Grill oven cleaner",
+        "description": "Fiche signalétique",
+        "url": "https://api-b2b.kersia.ca/media/documents/1/d/6/0/1d60751847ffbf4e0bd88fb91f4864fcfc405715_SPW826_F.PDF?_gl=1*5yx35l*_gcl_au*MTExMjQyMTI4Mi4xNzg0MTM2NzA2"
+    },
+ {
+        "id": 18,
+        "nom": "Bio-302/Bio Nature",
+        "description": "Fiche signalétique",
+        "url": "https://api-b2b.kersia.ca/media/documents/3/7/a/5/37a59f32003bebfcb638e0ba12c2d797ab46cf02_SUB0302002_F_2023.pdf?_gl=1*oj8672*_gcl_au*MTExMjQyMTI4Mi4xNzg0MTM2NzA2"
+    },
+ {
+        "id": 19,
+        "nom": "HM Huile minérale blanche",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/8523e29a-a127-574b-9f8a-252223f7445e"
+    },
+ {
+        "id": 20,
+        "nom": "Meta-Brille",
+        "description": "Fiche signalétique",
+        "url": "https://api-b2b.kersia.ca/media/documents/2/a/c/e/2acebfc0144b34c41d12c0fefeb77dc983179769_MEBR0950_F.pdf?_gl=1*wfcjra*_gcl_au*MTExMjQyMTI4Mi4xNzg0MTM2NzA2"
     }
 ]
