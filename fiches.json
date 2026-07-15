@@ -22,5 +22,23 @@
         "nom": "Ambio-Dher HP",
         "description": "Fiche signalétique",
         "url": "https://documents-api.kersia-group.com/datasheet/26c4db80-c48d-5e5e-880f-0b6dbe79e6f7"
+    },
+ {
+        "id": 5,
+        "nom": "Surf Zero RTU",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/0109373d-874c-5024-ae2d-acea1367f1bc"
+    },
+ {
+        "id": 6,
+        "nom": "Ouragan HP",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/b6c8b342-aac9-507f-8102-229599499d09"
+    },
+ {
+        "id": 7,
+        "nom": "Aci-Dher",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/a93c6221-3832-522f-9312-c6fea4de2e69"
     }
 ]
