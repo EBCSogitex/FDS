@@ -7,14 +7,20 @@
     },
     {
         "id": 2,
-        "nom": "Acétone",
-        "description": "Fiche signalétique de l'acétone",
-        "url": "https://votresite.com/fiches/acetone.pdf"
+        "nom": "Ali-Dher",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/c8fb5ae3-e92f-514f-8baa-58d6f3b9cef8"
     },
     {
         "id": 3,
-        "nom": "Hydroxyde de sodium",
-        "description": "Fiche signalétique de l'hydroxyde de sodium",
-        "url": "https://votresite.com/fiches/soude.pdf"
+        "nom": "Quat-10",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/dc85f64b-d773-5968-93c4-b593a9f914b7"
+    },
+ {
+        "id": 4,
+        "nom": "Ambio-Dher HP",
+        "description": "Fiche signalétique",
+        "url": "https://documents-api.kersia-group.com/datasheet/26c4db80-c48d-5e5e-880f-0b6dbe79e6f7"
     }
 ]
